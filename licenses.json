@@ -2,7 +2,7 @@
   "licenses": [
     {
       "key": "Q7XM-4L9T-Z2KF-8PVD",
-      "domain": "donghua.site.je",
+      "domain": "",
       "issued": "2026-08-03",
       "expires": null,
       "active": true,
@@ -10,11 +10,75 @@
     },
     {
       "key": "Q7XM-4L9T-Z2KF-8PV3",
-      "domain": "donghuastreamtheme.shop",
-      "issued": "2026-03-06",
+      "domain": "",
+      "issued": "2026-08-03",
       "expires": null,
       "active": true,
       "buyer": "John Doe"
+    },
+    {
+      "key": "LIC-0003-ABCD-EFGH",
+      "domain": "",
+      "issued": "2026-08-03",
+      "expires": null,
+      "active": true,
+      "buyer": ""
+    },
+    {
+      "key": "LIC-0004-IJKL-MNOP",
+      "domain": "",
+      "issued": "2026-08-03",
+      "expires": null,
+      "active": true,
+      "buyer": ""
+    },
+    {
+      "key": "LIC-0005-QRST-UVWX",
+      "domain": "",
+      "issued": "2026-08-03",
+      "expires": null,
+      "active": true,
+      "buyer": ""
+    },
+    {
+      "key": "LIC-0006-YZ12-3456",
+      "domain": "",
+      "issued": "2026-08-03",
+      "expires": null,
+      "active": true,
+      "buyer": ""
+    },
+    {
+      "key": "LIC-0007-789A-BCDE",
+      "domain": "",
+      "issued": "2026-08-03",
+      "expires": null,
+      "active": true,
+      "buyer": ""
+    },
+    {
+      "key": "LIC-0008-FGHI-JKLM",
+      "domain": "",
+      "issued": "2026-08-03",
+      "expires": null,
+      "active": true,
+      "buyer": ""
+    },
+    {
+      "key": "LIC-0009-NOPQ-RSTU",
+      "domain": "",
+      "issued": "2026-08-03",
+      "expires": null,
+      "active": true,
+      "buyer": ""
+    },
+    {
+      "key": "LIC-0010-VWXY-Z123",
+      "domain": "",
+      "issued": "2026-08-03",
+      "expires": null,
+      "active": true,
+      "buyer": ""
     }
   ]
 }
