@@ -1,20 +1,20 @@
 {
   "licenses": [
     {
-      "key": "Q7XM-4L9T-Z2KF-8PVE",
+      "key": "Q7XM-4L9T-Z2KF-8PVD",
       "domain": "donghua.site.je",
       "issued": "2026-08-03",
       "expires": null,
       "active": true,
       "buyer": "John Doe"
     },
-{
-"licenses": [
-{
-"key": "Q7XM-4L9T-Z2KF-8PV3",
-"domain": "donghuastreamtheme.shop",
-"issued": "2026-03-06",
-"expires": null,
-"active": true,
-"buyer": "John Doe"
+    {
+      "key": "Q7XM-4L9T-Z2KF-8PV3",
+      "domain": "donghuastreamtheme.shop",
+      "issued": "2026-03-06",
+      "expires": null,
+      "active": true,
+      "buyer": "John Doe"
+    }
+  ]
 }
